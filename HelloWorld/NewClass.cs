@@ -8,5 +8,10 @@ namespace HelloWorld
 {
     class Class1
     {
+        static void Main(string[] args)
+        {
+            //dodan kod
+            Console.WriteLine("Hello world");
+        }
     }
 }
