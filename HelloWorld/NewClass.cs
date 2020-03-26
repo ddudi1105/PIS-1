@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace HelloWorld
 {
+    // dodati implementaciju metode
     class Class1
     {
     }
